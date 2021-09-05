@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Fuel@Call</string>
+    <string name="description">Logo</string>
+    <string name="heading">FUEL@CALL</string>
+    <string name="vehicle_no">Enter Vehicle Number    </string>
+    <string name="phone_no">+91-8969439715</string>
+    <string name="cx_name">Enter Customer Name</string>
+    <string name="product_name">HSD</string>
+    <string name="rate">Enter Rate</string>
+    <string name="rupees">Enter Amount</string>
+    <string name="liters">Number of liters</string>
+    <string name="print">Print</string>
+    <string name="calculate">Calculate</string>
+</resources>
